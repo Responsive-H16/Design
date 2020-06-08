@@ -1,0 +1,38 @@
+.k{
+border-radius: 25px;
+border: 2px dotted rgb(223, 241, 62);
+text-align: center;
+
+}
+
+#txt{
+    color: aliceblue;
+    text-align: center;
+    font-style: oblique;
+    font: bold;
+    font-size: 30px;
+}
+.txt2{
+    color: rgb(17, 17, 22);
+    text-align: center;
+    font-style: oblique;
+    font-size: 30px;
+    font: bold;
+    border-radius: 25px;
+border: 2px dotted rgb(217, 255, 0);
+font-family: monospace;
+}
+.test_z{
+    border-radius: 15px;
+    border:rgb(219, 35, 35) 2px solid;
+    box-shadow: aquamarine;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.test_z:hover{
+    background-color: #3ff7c9;
+}
+.g{
+    color: #000000;
+    font: bolder;
+}
